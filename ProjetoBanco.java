@@ -4,7 +4,7 @@ public class ProjetoBanco {
         public  static void main(String[] args) {
             
             int opcao = 0;
-            String nome = "Larissa Andrade";
+            String nome = "Larissa Esteves Andrade";
             String conta = "Conta Corrente";
             double saldo = 2500.00;
             String menu = """
